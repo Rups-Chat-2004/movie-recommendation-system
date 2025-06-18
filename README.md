@@ -11,7 +11,6 @@
 -  **Custom Home Page Banner**
 -  Cleanly modularized codebase (`knn_model.py`, `train_once.py`, `app.py`)
 -  Model trained once and reused (no delay on startup)
--  Easily deployable and GitHub-ready
 
 ---
 
