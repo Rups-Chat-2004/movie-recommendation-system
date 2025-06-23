@@ -14,4 +14,10 @@
 
 ---
 
+##  Example Result
 
+Here is the output of the app:
+
+![Home Page](C:\Users\rupsh\OneDrive\Desktop\Home-Page.jpg)
+
+![Example Result](C:\Users\rupsh\OneDrive\Desktop\Example-Result.jpg)
