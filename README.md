@@ -18,6 +18,7 @@
 
 Here is the output of the app:
 
-![Home Page](C:\Users\rupsh\OneDrive\Desktop\Home-Page.jpg)
+![Home-Page](https://github.com/user-attachments/assets/6cfa6fc4-d8ee-460d-abff-77c5f1c2c484)
 
-![Example Result](C:\Users\rupsh\OneDrive\Desktop\Example-Result.jpg)
+![Example-Result](https://github.com/user-attachments/assets/cace1ecf-5f3c-4196-9e19-eea39738e3e0)
+
